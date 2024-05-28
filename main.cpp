@@ -271,6 +271,7 @@ int main() {
         }
 
         if (opcion != 11) {
+
             char continuar;
             cout << "¿Desea realizar otra operación? (s/n): ";
             cin >> continuar;
